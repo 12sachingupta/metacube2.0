@@ -1,0 +1,58 @@
+@media(min-width:1280px){#homepage-image-banner{width:100%;height:498px;/*background:url('../images/homepage-image-banner.jpg');*/background-size:cover;background-position:center;}
+#homepage-text-banner{width:100%;background-color:#fff;text-align:center;}
+#homepage-section-one{width:100%;margin:0;background-color:#e7e5e5;}
+#homepage-section-one .content-panel{float:left;position:relative;min-height:1px;overflow:hidden;}
+.column-spacer{float:left;position:relative;min-height:1px;}
+#homepage-section-one .row{width:100%;margin:auto;}
+#homepage-section-one .content-panel{height:100%;padding:0;background-color:#f6f6f6;text-align:center;}
+#homepage-section-one .mobile .content-panel{padding:0;background-color:#f6f6f6;text-align:center;}
+#homepage-section-one td{padding:0;background-color:#f6f6f6;text-align:center;}
+.process_img_panel{height:42%;overflow:hidden;text-align:center;padding:5px;}
+#homepage-section-one .ipad td{padding:0;background-color:#f6f6f6;text-align:center;width:50%;}
+#homepage-section-one table{width:100%;height:100%;margin:auto;}
+#homepage-section-one img{width:100%;height:auto;}
+#homepage-section-one .content-panel td{max-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+#homepage-section-one .ipad img{object-fit:cover;object-position:center;}
+.carousel-control-color{color:#0397ff;}
+.carousel-control.right,
+.carousel-control.left{background-image:none;}
+.mobile .container{width:100%;}
+.carousel-indicators li{width:10px;height:10px;margin:0;background-color:rgba(3, 151, 255, 0.3);border:none;}
+.carousel-indicators .active{width:10px;height:10px;margin:0;background-color:#0397ff;border:none;}
+.mobile .carousel-indicators{position:absolute;bottom:10px;left:50%;z-index:15;width:60%;padding-left:0;margin-left:-30%;text-align:center;list-style:none;}
+.ipad .carousel-indicators{position:absolute;bottom:10px;left:74%;z-index:15;width:60%;padding-left:0;margin-left:-30%;text-align:center;list-style:none;}
+#homepage-section-two{width:100%;background-image:url('../images/how-we-partner-with-you.jpg');background-size:cover;background-position:center;}
+#homepage-section-two .inner-content{padding:88px 0 88px 0;text-align:center;}
+.horizontal-spacer{width:100%;background-color:#e7e5e5;}
+.horizontal-1column-spacer{width:100%;background-color:#fff;}
+.content-panel{float:left;position:relative;min-height:1px;}
+.column-spacer{float:left;position:relative;min-height:1px;}
+#homepage-section-three{width:100%;}
+#homepage-section-three .row{width:100%;margin:auto;}
+#homepage-section-three .content-panel{height:100%;padding:41px 61px 41px 41px;background-color:#fff;overflow:hidden;}
+#homepage-section-three .content-panel.feature-image{padding:0;}
+#homepage-section-three .content-panel.twitter{background-color:#0397ff;}
+#homepage-section-three .content-panel.twitter .underline{opacity:0;}
+#homepage-section-three .content-panel table{width:100%;height:100%;}
+#homepage-section-three .content-panel td{text-align:left;}
+#homepage-section-three .title{height:38px;color:#0397ff;text-transform:uppercase;vertical-align:top;}
+#homepage-section-three .content-panel .title img{width:10%;vertical-align:top;}
+#homepage-section-three .content-panel .underline{vertical-align:top;}
+#homepage-section-three .text,.subtext{vertical-align:bottom;}
+#homepage-section-three .subtext{height:43px;vertical-align:bottom;}
+hr{margin:0;border:none;}
+#homepage-section-three .content-panel .title hr.invisible{height:21px;margin:0;visibility:hidden;}
+#homepage-section-three .content-panel .title hr.grey-underline{width:27px;height:2px;background-color:#d9d9da;}
+#more-content{width:100%;background-color:#e7e5e5;}
+#more-content .button{padding:74px 0 74px 0;text-align:center;}
+#homepage-section-four{width:100%;background-color:#fff;height:100%;padding-bottom:74px;}
+#homepage-section-four .title{width:100%;margin:auto;text-align:center;}
+#homepage-section-four .content{border-top:1px solid rgba(0, 0, 0, 0.22);margin:auto;width:84.375%;}
+#homepage-section-four .content tr td{width:50%;text-align:center;border-left:1px solid rgba(0, 0, 0, 0.1);}
+#homepage-section-four .content tr td:first-child{border-left:none;}
+#homepage-section-four .content table{margin:auto;}
+#homepage-section-four .content{text-align:center;}
+#homepage-section-four .content .image{padding:58px 0 58px 0;}
+#homepage-section-four .content .button{padding-top:42px;padding-bottom:22px;}
+#homepage-section-four .heading{padding-top:60px;}
+}
